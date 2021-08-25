@@ -40,6 +40,11 @@
 // const result = multi(10, 10);
 // console.log(result);
 
+// const myNumber = (num1, num2) => (num1 + 2) * (num2 + 2);
+// const result = myNumber(3, 3);
+
+// console.log(result);
+
 
 // const array = [5, 7, 8, 9, 20, 10, 30, 32, 21];
 // const ans = array.map(array => array * 5);
